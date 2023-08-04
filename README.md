@@ -24,8 +24,3 @@ Password
 **Client:** HTML5, CSS3, JavaScript, jQuery, AJAX.
 
 **Server:** PHP, MySQLi
-
-
-## Authors
-
-- [@SharoonRomail](https://github.com/SharoonRomail)
